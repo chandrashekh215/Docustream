@@ -51,7 +51,7 @@ DocuStream combines retrieval-augmented generation (RAG) with a clean Streamlit 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/swastiijain24/DocuStream.git
+git clone https://github.com/chandrashekhar215/Docustream.git
 cd DocuStream
 ```
 
